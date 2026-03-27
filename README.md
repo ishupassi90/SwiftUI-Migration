@@ -122,24 +122,6 @@ struct LegacyWrapper: UIViewControllerRepresentable {
 * Async/Await
 * MVVM Architecture
 
----
-
-## 📸 Screenshots
-
-### UIKit Screen (Legacy)
-
-*Add screenshot here*
-
-### SwiftUI Screen (Migrated)
-
-*Add screenshot here*
-
-### Hybrid Mode
-
-*Add screenshot here*
-
----
-
 ## 🧪 Testing
 
 * Unit tests for ViewModels
